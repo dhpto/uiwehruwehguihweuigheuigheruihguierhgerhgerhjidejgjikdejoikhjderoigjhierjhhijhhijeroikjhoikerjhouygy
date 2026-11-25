@@ -34,3 +34,4 @@ jobs:
           GIST_ID: ${{ secrets.GIST_ID }}
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
           MAX_WORKERS: "100"
+          OUTPUT_KEY: ${{ secrets.OUTPUT_KEY }}
